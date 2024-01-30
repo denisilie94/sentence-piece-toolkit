@@ -158,3 +158,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+llama-tokenizer
+merged_tokenizer_hf
+merged_tokenizer_sp
+tokenizers
+wiki-data
+wiki-dumps
+romanian_wiki_text.txt
